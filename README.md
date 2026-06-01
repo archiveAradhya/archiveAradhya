@@ -6,7 +6,7 @@ Nice meeting you, I'm Mishal/Aradhya!
 
 🔭 I’m currently working on web development projects  
 💬 Ask me about HTML, CSS, JavaScript, React and Vercel  
-📫 How to reach me: mishalseries@gmail.com  
+📫 How to reach me: mishalseries@gmail.com  and archivearadhya@gmail.com
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I build cool projects and deploy them online
 
