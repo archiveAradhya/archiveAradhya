@@ -1,14 +1,17 @@
-# 👋 About Me:
+👋 About Me:
 
 Hi there 👋
 
-Nice meeting you, I'm Aradhya!
-You can also recognise me as Mishal!
+Nice meeting you, I’m Aradhya!
+You can also recognize me as Mishal.
 
-🔭 I’m currently working on web development projects  
-💬 Ask me about HTML, CSS, JavaScript, React and Vercel  
-📫 How to reach me: mishalseries@gmail.com  and archivearadhya@gmail
-😄 Pronouns: He/Him  
+🔭 I’m currently working on web development projects
+💬 Ask me about HTML, CSS, JavaScript, React & Vercel
+📫 How to reach me:
+mishalseries@gmail.com
+archivearadhya@gmail.com
+
+😄 Pronouns: He/Him
 ⚡ Fun fact: I build cool projects and deploy them online
 
 ---
