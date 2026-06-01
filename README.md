@@ -2,11 +2,12 @@
 
 Hi there 👋
 
-Nice meeting you, I'm Mishal/Aradhya!
+Nice meeting you, I'm Aradhya!
+You can also recognise me as Mishal!
 
 🔭 I’m currently working on web development projects  
 💬 Ask me about HTML, CSS, JavaScript, React and Vercel  
-📫 How to reach me: mishalseries@gmail.com  and archivearadhya@gmail.com
+📫 How to reach me: mishalseries@gmail.com  and archivearadhya@gmail
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I build cool projects and deploy them online
 
@@ -14,9 +15,9 @@ Nice meeting you, I'm Mishal/Aradhya!
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM_LINK](https://www.instagram.com/archive_aradhya/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/archive_aradhya/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR_PORTFOLIO_LINK](https://mishal-portfolio-alpha.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mishal-portfolio-alpha.vercel.app/)
 
 ---
 
@@ -38,9 +39,3 @@ Nice meeting you, I'm Mishal/Aradhya!
 - 💼 Premium Portfolio Website  
 
 ---
-
-## 📊 GitHub Stats:
-
-![Mishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishalseries&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishalseries&layout=compact&theme=tokyonight)
