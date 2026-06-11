@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-Nice meeting you, I’m Aradhya!
+Nice to meet you, I’m Aradhya!
 You can also recognize me as Mishal.
 
 🔭 I’m currently working on web development projects
@@ -11,7 +11,7 @@ You can also recognize me as Mishal.
 mishalseries@gmail.com
 archivearadhya@gmail.com
 
-😄 Pronouns: He/Him
+
 ⚡ Fun fact: I build cool projects and deploy them online
 
 ---
